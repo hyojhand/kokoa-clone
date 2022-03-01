@@ -1,6 +1,5 @@
 # Kokoa Clone
 Nomad Coders Clone Coding with KakaoTalk
-<br>
 <h3> 1. Friends Screen & Chats Screen </h3>
 
 
