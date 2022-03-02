@@ -1,14 +1,25 @@
 # Kokoa Clone
 Nomad Coders Clone Coding with KakaoTalk
-<h3> 1. Friends Screen & Chats Screen </h3>
+<h3> 1. Splash Screen & Friends Screen </h3>
 
-
-<img align='left' width="360" height="550" alt="Friends screen" src="https://user-images.githubusercontent.com/87989933/156208424-c8afca38-b9e6-4958-9c1a-7d9e5593cc83.png">
-<img width="360" height="550" alt="Chats screen" src="https://user-images.githubusercontent.com/87989933/156208686-2b28ab9d-43ff-4811-af61-2463bae9ae4e.png">
+<img align='left' width="360" height="550"  alt="Splash screen" src="https://user-images.githubusercontent.com/87989933/156412395-e3aa9fa9-a6b0-405a-b760-3852122b8eeb.png">
+<img width="360" height="550" alt="Friends screen" src="https://user-images.githubusercontent.com/87989933/156411841-78c7e7a4-1a41-4557-a2fc-0560935ecba7.png">
 
 <br>
 
-<h3> 2. Find Screen & More Screen </h3>
+<h3> 2. Chats Screen & Chat Screen </h3>
+<img align='left'  width="360" height="550" alt="Chats screen" src="https://user-images.githubusercontent.com/87989933/156411906-dd69fdf5-ee17-45bb-ba2b-8582863b6b29.png">
+<img width="360" height="550" alt="Chat screen" src="https://user-images.githubusercontent.com/87989933/156412889-5a5fed83-f171-4080-b665-8ed610bf803e.png">
+
 <br>
 
-<img align='left' width="360" height="550" alt="Find screen" src="https://user-images.githubusercontent.com/87989933/156209008-818aaa1e-4958-4aff-9f99-d1ad4b7c31ab.png"><img width="360" height="550" alt="More screen" src="https://user-images.githubusercontent.com/87989933/156209126-2a8ae176-f5fa-42a2-b44e-dd3fb4653a80.png">
+<h3> 3. Find Screen & More Screen </h3>
+
+<img align='left' width="360" height="550" alt="Find screen" src="https://user-images.githubusercontent.com/87989933/156412000-f508d8df-c83e-46df-a88d-e5348b94fd0f.png">
+<img width="360" height="550" alt="More screen" src="https://user-images.githubusercontent.com/87989933/156412012-3ba2bca6-6909-4a47-8ff3-7cfacb6713d7.png">
+
+
+<br>
+
+<h3> 4. Settings Screen </h3>
+<img align='left' width="360" height="550" alt="Settings screen" src="https://user-images.githubusercontent.com/87989933/156413687-5db07afe-d38f-4384-ad11-c98ceb2d2ef8.png">
